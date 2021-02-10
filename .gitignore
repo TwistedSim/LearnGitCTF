@@ -1,0 +1,6 @@
+*.log
+logs/
+**/logs
+.DS_Store
+
+FLAG-GitignoreIsUsefulToAvoidCommitingUnwantedFiles
