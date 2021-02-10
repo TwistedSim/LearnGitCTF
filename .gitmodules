@@ -1,0 +1,3 @@
+[submodule "learngitctfsubrepo"]
+    path = learngitctfsubrepo
+    url = https://bitbucket.org/bouchards/learngitctfsubrepo.git
